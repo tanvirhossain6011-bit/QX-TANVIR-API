@@ -1,1 +1,0 @@
-# QX-TANVIR-API
