@@ -1,1 +1,4 @@
-
+pyquotex
+fastapi
+uvicorn
+python-dotenv
