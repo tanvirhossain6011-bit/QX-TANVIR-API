@@ -11,8 +11,8 @@ from fastapi import FastAPI, WebSocket, WebSocketDisconnect, Query
 from pyquotex.stable_api import Quotex
 
 load_dotenv()
-EMAIL = os.getenv("QUOTEX_EMAIL")
-PASSWORD = os.getenv("QUOTEX_PASSWORD")
+EMAIL = os.getenv("ldrbot46@gmail.com")
+PASSWORD = os.getenv("Ta11223344")
 PORT = int(os.getenv("PORT", "8000"))
 HISTORY_DAYS = int(os.getenv("HISTORY_DAYS", "30"))
 ONLY_ASSETS = [a.strip() for a in os.getenv("ASSETS", "").split(",") if a.strip()]
