@@ -1,4 +1,4 @@
-pyquotex
+pyquotex @ git+https://github.com/cleitonleonel/pyquotex.git
 fastapi
 uvicorn
 python-dotenv
