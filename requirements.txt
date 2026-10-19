@@ -6,4 +6,4 @@ requests
 beautifulsoup4
 certifi
 httpx
-git+https://github.com/cleitonleonel/pyquotex.git
+curl_cffi
