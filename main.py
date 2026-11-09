@@ -6,7 +6,7 @@ from contextlib import asynccontextmanager
 
 from fastapi import FastAPI, HTTPException, Query
 from fastapi.responses import JSONResponse
-from pyquotex import Quotex
+from pyquotex.stable_api import Quotex
 
 # ==========================================
 # QX TANVIR API v3.11
